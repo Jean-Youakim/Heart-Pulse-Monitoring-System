@@ -24,7 +24,7 @@ Based on the repository root layout:
 
 * **Jean Youakim** (@Jean-Youakim)
 * **Gabriel Mouannes** (@gabrielmouannes)
-* * **Joe Tarchichi** (@JoeTar77)
+* **Joe Tarchichi** (@JoeTar77)
 * **Ghady Abou Rached** (@Ghady1)
 
 
