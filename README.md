@@ -16,7 +16,16 @@ Based on the repository root layout:
 * **`ProteusSimulation.DSN`** – Main Proteus circuit design file for running live simulations.
 * **`ProjectDemo.mp4`** – A video demonstration showing the physical hardware operation and simulation run.
 * **`LICENSE`** – Project licensing terms.
-* **`README.md`** – This documentation file
+* **`README.md`** – This documentation file.
+
+---
+
+## 👥 Team Members
+
+* **Jean Youakim** (@Jean-Youakim)
+* **Gabriel Mouannes** (@gabrielmouannes)
+* **Ghady Abou Rached** (@Ghady1)
+* **Joe Tarchichi** (@JoeTar77)
 
 ---
 
